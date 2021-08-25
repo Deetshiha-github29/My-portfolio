@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(217, 248, 245);
+}
+
+.cou_heading{
+    font-family: 'Balsamiq Sans', cursive;
+    position: fixed;
+    top:5%;
+    left:43%;
+}
+.cou_info{
+    font-family: 'Architects Daughter', cursive;
+    position:fixed;
+    top:20%;
+    left:5%;
+}
